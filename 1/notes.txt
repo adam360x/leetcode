@@ -1,0 +1,3 @@
+Used a redblack tree to store numbers and search through them.
+For large arrays, this will run in O(nlog(n))
+However, since the test cases all are tiny arrays, this is much more overhead than other solutions and thus is slower
